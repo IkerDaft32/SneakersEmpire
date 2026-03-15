@@ -4,84 +4,84 @@ const tenis = [
     nombre:"Nike Court Legacy Next Nature",
     marca:"Nike",
     precio:"$2500",
-    imagen:"img/airforce1.jpg"
+    imagen:"airforce1.jpg"
     },
     
     {
     nombre:"Nike Upslift SC",
     marca:"Nike",
     precio:"$2200",
-    imagen:"img/superstar.jpg"
+    imagen:"superstar.jpg"
     },
     
     {
     nombre:"Nike Dunk Low Next Nature",
     marca:"Nike",
     precio:"$2100",
-    imagen:"img/rsx.jpg"
+    imagen:"rsx.jpg"
     },
     
     {
     nombre:"Nike big Low",
     marca:"Nike",
     precio:"$2000",
-    imagen:"img/t4.jpg"
+    imagen:"t4.jpg"
     },
     
     {
     nombre:"Nike WearAllDay",
     marca:"Nike",
     precio:"$1900",
-    imagen:"img/t6.jpg"
+    imagen:"t6.jpg"
     },
     
     {
     nombre:"Nike Air Jordan 1 Mid ",
     marca:"Nike",
     precio:"$3200",
-    imagen:"img/Jordan 1.jpg"
+    imagen:"Jordan 1.jpg"
     },
 
     {
     nombre:"Nike Air Jordan Retro 3 Tinker",
     marca:"Nike",
     precio:"$8600",
-    imagen:"img/Jordan 3.jpg"
+    imagen:"Jordan 3.jpg"
     },
 
     {
     nombre:"Nike Kevin Durant 5",
     marca:"Nike",
     precio:"$2300",
-    imagen:"img/kd 5.jpg"
+    imagen:"kd 5.jpg"
     },
 
     {
     nombre:"Nike Kevin Durant Trey 5 X",
     marca:"Nike",
     precio:"$2200",
-    imagen:"img/kd Trey 5.jpg"
+    imagen:"kd Trey 5.jpg"
     },
 
 {
     nombre:"Puma Axelion Refresh",
     marca:"Puma",
     precio:"$2600",
-    imagen:"img/Puma A.jpg"
+    imagen:"Puma A.jpg"
     },
 
     {
     nombre:"Under Armour Curry 3Z7",
     marca:"Under Armour",
     precio:"$1900",
-    imagen:"img/Under.jpg"
+    imagen:"Under.jpg"
     },
 
     {
     nombre:"Nike AF1 High",
     marca:"Nike",
     precio:"$2100",
-    imagen:"img/t7.jpg"
+    imagen:"t7.jpg"
     }
     
     ];
